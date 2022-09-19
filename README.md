@@ -13,11 +13,11 @@
 - 🌱 I’m currently learning programming
 - 🔭 I’m currently looking for a job as Junior Front-End developer
 - 👯 I’m looking to collaborate on new proyects as a Junior developer
-- 📫 How to reach me: <div id="badges">
-<a href="https://www.linkedin.com/in/marta-rodriguez-onis/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-</div>
+- 📫 How to reach me:
+  <a href="https://www.linkedin.com/in/marta-rodriguez-onis/" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
 - :card_index_dividers: I like too: to draw :framed_picture: and videogames :video_game:
 
 ---
