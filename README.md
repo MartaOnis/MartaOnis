@@ -1,7 +1,7 @@
 ### Hello World 👋 I`m Marta Rodríguez Onís a Junior Developer
 
 <div id="header" align="center">
-  <img src="images/FotoMartaColor.jpg" width="100"/>
+  <img src="images/Avatar.png" width="100"/>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=MartaOnis&style=flat-square&color=blue" alt=""/>
@@ -14,7 +14,7 @@
 - 🔭 I’m currently looking for a job as Junior Front-End developer
 - 👯 I’m looking to collaborate on new proyects as a Junior developer
 - 📫 How to reach me:
-  <a href="https://www.linkedin.com/in/marta-rodriguez-onis/" align="center">
+  <a href="https://www.linkedin.com/in/marta-rodriguez-onis/" align="right" width="30">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
