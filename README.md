@@ -1,10 +1,12 @@
-### Hello World 👋 I`m Marta Rodríguez Onís a Junior Developer
+### Hello World 👋 
+<p>I’m Marta Rodríguez Onís </p>
+<p>a Junior Developer</p>
 
 <div id="header" align="center">
-  <img src="images/Avatar.png" width="100"/>
+  <img src="images/Avatar.png" width="140" alt="Avatar de Marta" align="center"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=MartaOnis&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=MartaOnis&style=flat-square&color=blue" alt="Profile viewers" />
 
 ---
 
@@ -14,23 +16,21 @@
 - 🔭 I’m currently looking for a job as Junior Front-End developer
 - 👯 I’m looking to collaborate on new proyects as a Junior developer
 - 📫 How to reach me:
-  <a href="https://www.linkedin.com/in/marta-rodriguez-onis/" align="right" width="30">
+  <a href="https://www.linkedin.com/in/marta-rodriguez-onis/" align="right" width="10">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-- :card_index_dividers: I like too: to draw :framed_picture: and videogames :video_game:
+- I like to draw :framed_picture: and videogames :video_game:
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
